@@ -2,7 +2,7 @@
 
 ![preview](./.github/preview.png)
 
-[Clique aqui para acessar](https://alicemdias.github.io/nwl/)
+[Click here to access](https://alicemdias.github.io/nwl/)
 
 A basic web page with animation using just HTML and CSS.
 
